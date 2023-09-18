@@ -4,3 +4,5 @@
 v1.0  10-09-2023 Initial Release
 
 v1.0a 11-09-2023 reduced duration indicators
+
+v1.0b 11-09-2023 fixed 4&5 player mythos, corrected evidence announcement at mirror
