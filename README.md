@@ -14,3 +14,5 @@ v1.0d 20-10-2023 Added Polish Translation by sircohen.
 v1.0e 22-10-2023 Updated Polish Translation by sircohen.
 
 v1.0f 27-10-2023 Updated Polish Translation by sircohen.
+
+v1.0g 13-11-2023 Added Spanish Translation by Vidimus.
