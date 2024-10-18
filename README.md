@@ -16,3 +16,5 @@ v1.0e 22-10-2023 Updated Polish Translation by sircohen.
 v1.0f 27-10-2023 Updated Polish Translation by sircohen.
 
 v1.0g 13-11-2023 Added Spanish Translation by Vidimus.
+
+v1.1  18-10-2024 fixed Charlie Kane and Lilly Chen identification; fixed abductee selection from #SoT and #BtT
