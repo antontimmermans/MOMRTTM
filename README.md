@@ -20,3 +20,5 @@ v1.0g 13-11-2023 Added Spanish Translation by Vidimus.
 v1.1  18-10-2024 fixed Charlie Kane and Lilly Chen identification; fixed abductee selection from #SoT and #BtT
 
 v1.2  01-12-2025 fixed #SoT and #BtT Mirror display and other minor bugs
+
+v1.2a 24-03-2026 Added Polish voice over by Grahnar
